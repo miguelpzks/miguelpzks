@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/miguelpzks/miguelpzks/raw/main/bannerGithub.png" alt="Banner do Miguel" />
+</p>
+
+<h1 align="center">Miguel • Dev Java Júnior</h1>
+<p align="center">Foco, prática e paixão por tecnologia 🚀</p>
+
 # 👋 Olá! Eu sou o Miguel
 
 Sou um estudante apaixonado por programação e estou trilhando meu caminho para me tornar um **Engenheiro de Software** com foco em **Java**. Atualmente estou desenvolvendo projetos que envolvem lógica, sistemas de cadastro, controle de dados, e aplicações simulando casos reais.
