@@ -1,41 +1,38 @@
-# 👋 Olá! Eu sou o Miguel
+# 👋 Olá! Eu sou o Miguel Moura
 
-Sou um estudante apaixonado por programação e estou trilhando meu caminho para me tornar um **Engenheiro de Software** com foco em **Java**. Atualmente estou desenvolvendo projetos que envolvem lógica, sistemas de cadastro, controle de dados, e aplicações simulando casos reais.
-
----
-
-### 🚀 Meus Projetos em Destaque
-
-| Projeto | Descrição | Linguagem |
-|--------|-----------|-----------|
-| [Sistema de Cadastro com Login](https://github.com/miguelpzks/sistema-cadastro-login) | Cadastro e login de usuários com verificação simples | Java |
-| [Gerenciador de Tarefas](https://github.com/miguelpzks/gerenciador-de-tarefas) | Criação, listagem e remoção de tarefas | Java |
-| [Conversor de Moedas](https://github.com/miguelpzks/Conversor-de-Moedas) | Conversão entre BRL, USD e EUR via CLI | Java |
-| [Sistema Bancário Simples](https://github.com/miguelpzks/sistema-bancario) | Abertura de conta, saque e depósito | Java |
-| [Controle de Estoque](https://github.com/miguelpzks/controle-de-estoque) | Gerenciamento de produtos em estoque | Java |
+🎮 Desenvolvedor de jogos com Unreal Engine 4.27  
+☕ Programador Java com experiência em apps desktop  
+🌐 Conhecimento em Front-End (HTML, CSS, JavaScript)  
+🎯 Criando projetos práticos e sempre buscando aprender mais!
 
 ---
 
-### 💼 Tecnologias que estou usando:
-- Java (foco principal)
-- Git e GitHub
-- Orientação a Objetos
-- Terminal / CLI
-- IntelliJ / VS Code
+## 💼 Projetos em Destaque
+
+### 🧮 App de Estoque em Java
+CRUD de produtos e clientes usando Java e Swing.  
+[🔗 Ver Projeto](https://github.com/seuusuario/nome-do-repo)
+
+### 🎮 Jogo FPS em Unreal Engine
+Protótipo com IA básica, blueprint e C++.  
+[🎥 Vídeo ou Imagens](link_ou_gif)
+
+### 🌐 Site de Produtos
+Landing page responsiva com HTML, CSS e um toque de JavaScript.  
+[🔗 Ver Online](https://vercel.com/seusite)
 
 ---
 
-### 📈 Estou aprendendo:
-- JavaFX para interfaces gráficas
-- Estrutura de dados
-- Boas práticas com testes e documentação
+## 🛠 Habilidades
+
+- **Linguagens**: Java, HTML, CSS, JavaScript, C++
+- **Ferramentas**: Unreal Engine, Git, Figma
+- **Outros**: Java Swing, Firebase (básico), Bootstrap
 
 ---
 
-### 📫 Contato
+📫 **Contato**
+- ✉️ miguel@email.com  
+- 💼 [LinkedIn](https://linkedin.com/in/seulinkedin)  
+- 💻 [Portfólio PDF ou Site](link opcional)
 
-- 📧 Email: miguelmoural826@gmail.com
-
----
-
-**"Code, learn, repeat."** ✨
