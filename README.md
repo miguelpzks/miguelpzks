@@ -1,38 +1,77 @@
 # 👋 Olá! Eu sou o Miguel Moura
 
-🎮 Desenvolvedor de jogos com Unreal Engine 4.27  
-☕ Programador Java com experiência em apps desktop  
-🌐 Conhecimento em Front-End (HTML, CSS, JavaScript)  
-🎯 Criando projetos práticos e sempre buscando aprender mais!
+Sou **Desenvolvedor de Jogos** e **Programador Java** com experiência em **Unreal Engine 4.27/5.0**, **Java Swing**, e desenvolvimento **Web**. Estou sempre em busca de novos desafios e aprendizados. Focado em criar soluções práticas e impactantes, seja em jogos, aplicativos desktop ou sites responsivos.
 
 ---
 
-## 💼 Projetos em Destaque
+## 🏆 **Sobre Mim**
 
-### 🧮 App de Estoque em Java
-CRUD de produtos e clientes usando Java e Swing.  
-[🔗 Ver Projeto](https://github.com/seuusuario/nome-do-repo)
+🎮 **Desenvolvedor de Jogos** com experiência em Unreal Engine 4.27, focado em criar protótipos, jogos interativos e mecânicas de combate.  
+☕ **Programador Java** com sólida experiência em desenvolvimento de **aplicações desktop** e sistemas **CRUD**.  
+🌐 **Desenvolvedor Front-End** com habilidades em **HTML, CSS, JavaScript**, buscando sempre a melhor experiência de usuário em sites responsivos.
 
-### 🎮 Jogo FPS em Unreal Engine
-Protótipo com IA básica, blueprint e C++.  
-[🎥 Vídeo ou Imagens](link_ou_gif)
-
-### 🌐 Site de Produtos
-Landing page responsiva com HTML, CSS e um toque de JavaScript.  
-[🔗 Ver Online](https://vercel.com/seusite)
+Meu objetivo é combinar criatividade e lógica para criar projetos inovadores que entreguem valor real aos usuários.
 
 ---
 
-## 🛠 Habilidades
+## 💼 **Projetos em Destaque**
 
-- **Linguagens**: Java, HTML, CSS, JavaScript, C++
-- **Ferramentas**: Unreal Engine, Git, Figma
-- **Outros**: Java Swing, Firebase (básico), Bootstrap
+### 🧮 **Programa de Estoque em Java**
+- **Descrição:** Sistema de controle de estoque desenvolvido em **Java**. Implementa um **CRUD** de produtos e clientes.
+- **Tecnologias Utilizadas:** Java, JDBC
+- **Desafios:** Integração com banco de dados e gerenciamento de grandes volumes de dados.
+- 🔗 [Ver Projeto no GitHub](https://github.com/miguelpzks/Controle-de-Estoque)
 
 ---
 
-📫 **Contato**
-- ✉️ miguel@email.com  
-- 💼 [LinkedIn](https://linkedin.com/in/seulinkedin)  
-- 💻 [Portfólio PDF ou Site](link opcional)
+### 🎮 **Jogo FPS - Unreal Engine 4.27**
+- **Descrição:** Protótipo de **jogo FPS** com mecânicas básicas de **combate e IA**, desenvolvido em **Unreal Engine 4.27**. O jogo inclui **Blueprints** para a interação e **C++** para a implementação de funcionalidades avançadas de IA.
+- **Tecnologias Utilizadas:** Unreal Engine 4.27, C++, Blueprints, IA
+- **Desafios:** Criação de IA para inimigos, integração entre Blueprints e C++.
+- 🔗 [Ver Projeto no GitHub](#)
+- 🎥 [Assista ao Vídeo do Jogo](#)
+
+---
+
+## 🛠 **Habilidades Técnicas**
+
+### **Linguagens de Programação:**
+- **Java:** Desenvolvimento de aplicativos desktop e sistemas de backend.
+- **C++:** Programação para jogos e desenvolvimento de sistemas de alto desempenho.
+- **HTML/CSS/JavaScript:** Criação de sites e landing pages responsivas.
+  
+### **Ferramentas e Frameworks:**
+- **Unreal Engine:** Desenvolvimento de jogos 3D e protótipos interativos.
+- **Swing (Java):** Desenvolvimento de interfaces gráficas para desktop.
+- **Bootstrap:** Framework para design responsivo de sites.
+- **Git:** Controle de versão e colaboração em projetos.
+
+---
+
+## 🎯 **Objetivos Profissionais**
+Atualmente, estou buscando expandir minhas habilidades na área de **desenvolvimento de jogos**, especialmente em **Sistemas Gerais**, e melhorar minha experiência com **C++** e **Unreal Engine**. Além disso, continuo explorando o desenvolvimento **front-end** para criar experiências mais ricas e interativas em sites.
+
+---
+
+## 📫 **Contato**
+
+- **Email:** [miguelmoural826@gmail.com](miguelmoural826@gmail.com)
+- **LinkedIn:** [Miguel Moura](https://www.linkedin.com/in/miguel-moura-24b043266/)
+- **Portfólio:** [PDF ou Site](#)
+- **GitHub:** [miguel-github](https://github.com/miguelpzks)
+
+---
+
+## 🌍 **Outras Informações**
+- **Freelancer disponível** para **projetos de design de jogos** e **desenvolvimento de aplicações**.
+- Fale comigo se você está procurando alguém para colaborar em **projetos de jogos 3D**, **aplicativos desktop** ou **sites interativos**!
+
+---
+
+## 🚀 **Tecnologias & Ferramentas que Estou Aprendendo**
+- **Unity:** Expandindo para o desenvolvimento de jogos em Unity.
+- **Behavior Three:** Explorando IA mais avançada.
+
+---
+
 
