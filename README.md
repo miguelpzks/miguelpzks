@@ -63,7 +63,7 @@ Atualmente, estou buscando expandir minhas habilidades na área de **desenvolvim
 ---
 
 ## 🌍 **Outras Informações**
-- **Freelancer disponível** para **projetos de design de jogos** e **desenvolvimento de aplicações**.
+- **Freelancer disponível** para **projetos de design** e **desenvolvimento de aplicações** e **Sistemas**.
 - Fale comigo se você está procurando alguém para colaborar em **projetos de jogos 3D**, **aplicativos desktop** ou **sites interativos**!
 
 ---
