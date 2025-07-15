@@ -1,13 +1,13 @@
 # 👋 Olá! Eu sou o Miguel Moura
 
-Sou **Desenvolvedor de Jogos** e **Programador Java** com experiência em **Unreal Engine 4.27/5.0**, **Java Swing**, e desenvolvimento **Web**. Estou sempre em busca de novos desafios e aprendizados. Focado em criar soluções práticas e impactantes, seja em jogos, aplicativos desktop ou sites responsivos.
+Sou **Desenvolvedor de Jogos** e **Programador** com experiência em **Unreal Engine 4.27/5.0**, e desenvolvimento **Web**. Estou sempre em busca de novos desafios e aprendizados. Focado em criar soluções práticas e impactantes, seja em jogos, aplicativos desktop ou sites responsivos.
 
 ---
 
 ## 🏆 **Sobre Mim**
 
-🎮 **Desenvolvedor de Jogos** com experiência em Unreal Engine 4.27, focado em criar protótipos, jogos interativos e mecânicas de combate.  
-☕ **Programador Java** com sólida experiência em desenvolvimento de **aplicações desktop** e sistemas **CRUD**.  
+🎮 **Desenvolvedor de Jogos** com experiência em Unreal Engine 4.27, focado em criar protótipos, jogos interativos e mecânicas de combate com blueprints e c++.  
+☕ **Programador** com sólida experiência em desenvolvimento de **aplicações desktop** e sistemas **CRUD**, linguagens usadas java e python.  
 🌐 **Desenvolvedor Front-End** com habilidades em **HTML, CSS, JavaScript**, buscando sempre a melhor experiência de usuário em sites responsivos.
 
 Meu objetivo é combinar criatividade e lógica para criar projetos inovadores que entreguem valor real aos usuários.
