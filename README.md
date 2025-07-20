@@ -6,7 +6,7 @@ Sou **Desenvolvedor de Jogos** e **Programador** com experiência em **Unreal En
 
 ## 🏆 **Sobre Mim**
 
-🎮 **Desenvolvedor de Jogos** com experiência em Unreal Engine 4.27, focado em criar protótipos, jogos interativos e mecânicas de combate com blueprints e c++.  
+🎮 **Desenvolvedor de Jogos** com experiência em Unreal Engine 4.27, focado em criar protótipos, jogos interativos e mecânicas de terror com blueprints e c++.  
 ☕ **Programador** com sólida experiência em desenvolvimento de **aplicações desktop** e sistemas **CRUD**, linguagens usadas java e python.  
 🌐 **Desenvolvedor Front-End** com habilidades em **HTML, CSS, JavaScript**, buscando sempre a melhor experiência de usuário em sites responsivos.
 
@@ -38,6 +38,7 @@ Meu objetivo é combinar criatividade e lógica para criar projetos inovadores q
 ### **Linguagens de Programação:**
 - **Java:** Desenvolvimento de aplicativos desktop e sistemas de backend.
 - **C++:** Programação para jogos e desenvolvimento de sistemas de alto desempenho.
+- **Python:** Desenvolvimento de aplicativos desktop. 
 - **HTML/CSS/JavaScript:** Criação de sites e landing pages responsivas.
   
 ### **Ferramentas e Frameworks:**
@@ -49,9 +50,9 @@ Meu objetivo é combinar criatividade e lógica para criar projetos inovadores q
 ---
 
 ## 🎯 **Objetivos Profissionais**
-Atualmente, estou buscando expandir minhas habilidades na área de **desenvolvimento de jogos**, especialmente em **Sistemas Gerais**, e melhorar minha experiência com **C++** e **Unreal Engine**. Além disso, continuo explorando o desenvolvimento **front-end** para criar experiências mais ricas e interativas em sites.
+Atualmente, estou buscando expandir minhas habilidades na área de **programador**, e melhorar minha experiência com **python** e **Java**. Além disso, continuo explorando o desenvolvimento **front-end** para criar experiências mais ricas e interativas em sites.
 
----
+---a
 
 ## 📫 **Contato**
 
@@ -63,7 +64,7 @@ Atualmente, estou buscando expandir minhas habilidades na área de **desenvolvim
 ---
 
 ## 🌍 **Outras Informações**
-- **Freelancer disponível** para **projetos de design** e **desenvolvimento de aplicações** e **Sistemas**.
+- **Freelancer disponível** para **projetos de design** e **desenvolvimento de aplicações** e **Sistemas** e **desenvolvimento** de jogos.
 - Fale comigo se você está procurando alguém para colaborar em **projetos de jogos 3D**, **aplicativos desktop** ou **sites interativos**!
 
 ---
