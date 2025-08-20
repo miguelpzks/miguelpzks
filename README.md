@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou o Miguel Moura
+# 👋 Hello! My name is Miguel!
 
-Sou **Desenvolvedor de Jogos** e **Programador** com experiência em **Unreal Engine 4.27/5.0**. Estou sempre em busca de novos desafios e aprendizados. Focado em criar soluções práticas e impactantes, seja em jogos, aplicativos desktop ou sites responsivos.
+I am a programming student, I have knowledge in game development using the unreal engine and development of apps, programs and websites.
 
 ---
 
